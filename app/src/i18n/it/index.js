@@ -12,10 +12,10 @@ export default {
     slogan: 'Slogan',
     server: "richiedi l'url di base",
     index_title: 'Piattaforma di gestione del magazzino',
-    webtitle: 'GreaterWMS--Sistema di gestione del magazzino open source',
+    webtitle: 'Turbo Pallet--Sistema di gestione del magazzino open source',
     home: 'prima pagina',
-    title: 'GreaterWMS',
-    title_tip: 'Homepage GreaterWMS',
+    title: 'Turbo Pallet',
+    title_tip: 'Homepage Turbo Pallet',
     hide_menu: 'Chiudi menu',
     api: 'Documentazione API',
     translate: 'Cambia lingua',
@@ -637,7 +637,7 @@ export default {
     },
     versione: {
       new: 'Aggiornamento nuova versione',
-      detail: "Vi preghiamo di visitare il sito web ufficiale di GreaterWMS, https://www.56yhz.com/, per scaricare l'ultima versione dell'APP"
+      detail: "Vi preghiamo di visitare il sito web ufficiale di Turbo Pallet, https://www.56yhz.com/, per scaricare l'ultima versione dell'APP"
     },
     400: 'Richiesta errata (400)',
     401: 'Non autorizzato (401)',

@@ -12,10 +12,10 @@ export default {
     slogan: 'лозунг',
     server: 'запросить базовый URL',
     index_title: 'Платформа управления складами',
-    webtitle: 'GreaterWMS--Система управления складом с открытым исходным кодом',
+    webtitle: 'Turbo Pallet--Система управления складом с открытым исходным кодом',
     home: 'титульная страница',
-    title: 'GreaterWMS',
-    title_tip: 'GreaterWMSтитульная страница',
+    title: 'Turbo Pallet',
+    title_tip: 'Turbo Palletтитульная страница',
     hide_menu: 'Свернуть меню',
     api: 'APIДокументация',
     translate: 'изменить язык',
@@ -637,7 +637,7 @@ export default {
     },
     version: {
         new: 'Обновление новой версии',
-        detail: 'Пожалуйста, перейдите на официальный сайт GreaterWMS, https://www.56yhz.com/, чтобы загрузить последнюю версию APP'
+        detail: 'Пожалуйста, перейдите на официальный сайт Turbo Pallet, https://www.56yhz.com/, чтобы загрузить последнюю версию APP'
       },
     400: 'Дрэнны запыт (400)',
     401: 'Несанкцыянавана (401)',

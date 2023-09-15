@@ -12,10 +12,10 @@ export default {
     slogan: 'スローガン',
     server: 'リクエストアドレス',
     index_title: '倉庫管理プラットフォーム',
-    webtitle: 'GreaterWMS--オープンソース倉庫管理システム',
+    webtitle: 'Turbo Pallet--オープンソース倉庫管理システム',
     home: 'ホーム',
-    title: 'GreaterWMS',
-    title_tip: 'GreaterWMSホームページ',
+    title: 'Turbo Pallet',
+    title_tip: 'Turbo Palletホームページ',
     hide_menu: 'メニューを折りたたむ',
     api: 'APIドキュメント',
     translate: '言語の変更',
@@ -635,7 +635,7 @@ export default {
     },
     version: {
       new: '新版本更新',
-      detail: 'アプリの最新バージョンをダウンロードするには、GreaterWMS 公式 Web サイト (https://www.56yhz.com/) にアクセスしてください'
+      detail: 'アプリの最新バージョンをダウンロードするには、Turbo Pallet 公式 Web サイト (https://www.56yhz.com/) にアクセスしてください'
     },
     400: '不正なリクエスト（400）',
     401: '認証が取得されていません（401）',

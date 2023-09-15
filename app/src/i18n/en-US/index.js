@@ -12,10 +12,10 @@ export default {
     slogan: 'Slogan',
     server: 'Request Baseurl',
     index_title: 'Open Source Inventory System',
-    webtitle: 'GreaterWMS--Open Source Warehouse Management System',
+    webtitle: 'Turbo Pallet--Open Source Warehouse Management System',
     home: 'Home',
-    title: 'GreaterWMS',
-    title_tip: 'GreaterWMS Home',
+    title: 'Turbo Pallet',
+    title_tip: 'Turbo Pallet Home',
     hide_menu: 'Hide Menu',
     api: 'API DOCS',
     translate: 'Choose Language',
@@ -637,7 +637,7 @@ export default {
     },
     version: {
        new: 'New Version Update',
-       detail: 'Please go to the GreaterWMS official website, https://www.56yhz.com/, to download the latest version of the APP'
+       detail: 'Please go to the Turbo Pallet official website, https://www.56yhz.com/, to download the latest version of the APP'
      },
     400: 'Bad request (400)',
     401: 'Authorization not obtained (401)',

@@ -12,10 +12,10 @@ export default {
     slogan: '宣傳語',
     server: '請求地址',
     index_title: '倉庫管理平臺',
-    webtitle: 'GreaterWMS--開源倉庫管理系統',
+    webtitle: 'Turbo Pallet--開源倉庫管理系統',
     home: '首頁',
-    title: 'GreaterWMS',
-    title_tip: 'GreaterWMS首頁',
+    title: 'Turbo Pallet',
+    title_tip: 'Turbo Pallet首頁',
     hide_menu: '收起選單',
     api: 'API檔案',
     translate: '更改語言',
@@ -635,7 +635,7 @@ export default {
     },
     version: {
        new: '新版本更新',
-       detail: '請到GreaterWMS官網，https://www.56yhz.com/，下載最新版本的APP'
+       detail: '請到Turbo Pallet官網，https://www.56yhz.com/，下載最新版本的APP'
      },
     400: '錯誤請求(400)',
     401: '未取得授權(401)',

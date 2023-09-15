@@ -12,10 +12,10 @@ export default {
     slogan: 'شعار',
     server: 'الخادم',
     index_title: 'منصة إدارة المستودعات',
-    webtitle: 'GreaterWMS - نظام إدارة المستودعات مفتوح المصدر',
+    webtitle: 'Turbo Pallet - نظام إدارة المستودعات مفتوح المصدر',
     home: 'الصفحة الأمامية',
-    title: 'GreaterWMS',
-    title_tip: 'الصفحة الرئيسية لـ GreaterWMS ',
+    title: 'Turbo Pallet',
+    title_tip: 'الصفحة الرئيسية لـ Turbo Pallet ',
     hide_menu: 'تصغير القائمة',
     api: 'وثائق API',
     translate: 'تغيير اللغة ',
@@ -637,7 +637,7 @@ export default {
     },
     version: {
         new: "تحديث الإصدار الجديد",
-        detail: "يرجى الانتقال إلى موقع ويب GreaterWMS الرسمي ، https://www.56yhz.com/ ، لتنزيل أحدث إصدار من التطبيق"
+        detail: "يرجى الانتقال إلى موقع ويب Turbo Pallet الرسمي ، https://www.56yhz.com/ ، لتنزيل أحدث إصدار من التطبيق"
       },
     400: 'طلب خطأ(400)',
     401: 'عدم الحصول على إذن(401)',
